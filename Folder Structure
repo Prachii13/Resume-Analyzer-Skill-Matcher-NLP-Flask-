@@ -1,0 +1,8 @@
+resume-analyzer/
+├── app.py
+├── parser.py
+├── templates/
+│   └── index.html
+├── uploads/
+├── requirements.txt
+└── README.md
